@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DeskBuilderApp</string>
+    <string name="welcome_label">Welcome to the desk builder app!</string>
+    <string name="base_label">Base Price: $200</string>
+    <string name="add2_label">$50 add-on for dimensions over 750</string>
+    <string name="add3_label">$30 per drawer</string>
+    <string name="add4_label">$125 add-on for oak or $150 add-on for mahogany</string>
+    <string name="name_label">Please enter your name and click next to build your desk:</string>
+    <string name="next_button">Next</string>
+    <string name="length_label">Please enter a length between 24 and 144 inches:</string>
+    <string name="width_label">Please enter a width between 24 and 48 inches:</string>
+    <string name="drawer_select">Select enter # of drawers:</string>
+    <string name="wood_choice">Which type of wood would you like?</string>
+    <string name="mahogany">mahogany</string>
+    <string name="oak">oak</string>
+    <string name="pine">pine</string>
+    <string name="submit_button">Place Order</string>
+    <string name="order_confirmation">Thank you for your order!</string>
+    <string name="order_detail">Order Details:</string>
+    <string name="dimension_label">Dimensions:</string>
+    <string name="cusName_label">Name:</string>
+    <string name="drawers_label"># of drawers:</string>
+    <string name="wood_label">Wood Choice:</string>
+    <string name="total_label">Total:</string>
+</resources>

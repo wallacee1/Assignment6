@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TutorialApp</string>
+    <string name="welcome_text">Hello! I\'m a droid.</string>
+</resources>
